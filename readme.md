@@ -14,5 +14,10 @@ The two players then alternate turns.</br>
 If a player wins the game, the loser of the last round starts the following round.</br>
 If there is a tie, the other player begins.
 
+<h1>Installion</h1>
+Simply take the CPTicTacToe.bin file and place it into the root directory of your calculator's flash memory. Open the launcher (currently in the System app, accessed through the System > Hollyhonk-2 Launcher (sometimes "Imaginary Unit") menu) and select the application from the list.
 
+Tap 'Run' to launch the application.
 
+![image](https://github.com/Nusscookie/CPTicTacToe/assets/84175549/3b8179e8-c177-4373-a69d-c93f0b369a69)
+(example image)
