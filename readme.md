@@ -20,4 +20,5 @@ Simply take the CPTicTacToe.bin file and place it into the root directory of you
 Tap 'Run' to launch the application.
 
 ![image](https://github.com/Nusscookie/CPTicTacToe/assets/84175549/3b8179e8-c177-4373-a69d-c93f0b369a69)
+
 (example image)
