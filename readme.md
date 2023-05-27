@@ -22,3 +22,6 @@ Tap 'Run' to launch the application.
 ![image](https://github.com/Nusscookie/CPTicTacToe/assets/84175549/3b8179e8-c177-4373-a69d-c93f0b369a69)
 
 (example image)
+
+<h1>Build game yourself</h1>
+You can build this game yourself by following the instructions on the CPAppTemplate github website (https://github.com/TheRainbowPhoenix/CPAppTemplate). After following the instructions, simply copy the code from this main.cpp file into the other main.cpp file in the template. At the end, you just need to run "make bin" to compile everything.
